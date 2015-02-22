@@ -8,5 +8,5 @@ A timeline of economic trends will be defined which will be used to reference ne
 * Web data mining 
 * HTML parsing
 * Natural Language Processing
-* Database manipulation
+* Database creation/manipulation
 * Regression analysis
