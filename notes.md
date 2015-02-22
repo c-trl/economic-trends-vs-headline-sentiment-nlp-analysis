@@ -5,7 +5,7 @@
 * Real GDP (Quarterly, research.stlouisfed.org)  
 * Unemployment Rate (Monthly, BLS.gov)  
 * Labor Force Participation Rates (Monthly, BLS.gov)  
-* Real Consumer Price Index  
+* Consumer Price Index  
 * Savings Rates  
 * Consumption Rates  
 * Money Supply: M2  
@@ -13,4 +13,5 @@
 * Private Investment Rates  
 * Exports  
 * Imports  
+* Purchasing Power Parity  
 
