@@ -1,4 +1,4 @@
-###Economic data parameters: Daily; January 1, 1995 - January 1, 2015
+###Economic data parameters: Quarterly; January 1, 1995 - January 1, 2015
 
 ####variables:
 ---
