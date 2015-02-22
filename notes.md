@@ -1,6 +1,6 @@
 ###Economic data parameters: Daily; January 1, 1995 - January 1, 2015
 
-<b>variables:</b>
+####variables:
 ---
 * Real GDP  
 * Unemployment Rates  
