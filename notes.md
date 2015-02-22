@@ -1,10 +1,10 @@
-###Economic data parameters: Quarterly; January 1, 1995 - January 1, 2015
+##Economic data parameters: January 1, 1995 - January 1, 2015
 
 ####variables:
 ---
-* Real GDP  
-* Unemployment Rates  
-* Labor Force Participation Rates  
+* Real GDP (Quarterly, research.stlouisfed.org)  
+* Unemployment Rate (Monthly, BLS.gov)  
+* Labor Force Participation Rates (Monthly, BLS.gov)  
 * Real Consumer Price Index  
 * Savings Rates  
 * Consumption Rates  
