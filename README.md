@@ -28,5 +28,5 @@ The New York Times (http://developer.nytimes.com/docs/read/article_search_api_v2
 USA Today (http://developer.usatoday.com/docs/read/USATODAY_Articles_Service)  
 
 ###Network Sites:
-CNN (http://www.cnn.com/services/rss/)
+CNN (http://www.cnn.com/services/rss/)  
 AP (http://www.programmableweb.com/api/associated-press)
