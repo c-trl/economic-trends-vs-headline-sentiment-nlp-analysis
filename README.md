@@ -7,6 +7,7 @@ A timeline of economic trends will be defined which will be used to reference ne
 
 ##In this project:
 * Web data mining 
+* Utilization of Federal Reserve Economic Data's API
 * HTML parsing
 * Natural Language Processing
 * Database creation/manipulation
