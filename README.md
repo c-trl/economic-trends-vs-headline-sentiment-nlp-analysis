@@ -1,5 +1,5 @@
-Follow the project here:
-[Working with FRED API](http://nbviewer.ipython.org/github/c-trl/economic-trends-vs-headline-sentiment-nlp-analysis/blob/master/fred-api.ipynb).
+Follow the project here:  
+[Working with FRED API](http://nbviewer.ipython.org/github/c-trl/economic-trends-vs-headline-sentiment-nlp-analysis/blob/master/fred-api.ipynb).  
 [Web-Scraping News Headlines](http://nbviewer.ipython.org/github/c-trl/economic-trends-vs-headline-sentiment-nlp-analysis/blob/master/headline-scraping.ipynb)
 
 ##Economic Trends and Headline Sentiment NLP Analysis
