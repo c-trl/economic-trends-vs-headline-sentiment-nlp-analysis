@@ -19,6 +19,7 @@ A timeline of economic trends will be defined which will be used to reference ne
 * Send to dataframe
 * Add a column to the df using sentiment estimator
 * Plot sentiment, regress against various economic indicators
+
 ---
 ###Potential Newspaper Archives:
 Wall Street Journal (http://betaweb.dowjones.com/api/#headlines)  
