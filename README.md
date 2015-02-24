@@ -12,7 +12,7 @@ A timeline of economic trends will be defined which will be used to reference ne
 * Natural Language Processing
 * Database creation/manipulation
 * Regression analysis
-* 
+
 ##Steps:
 * Automation of web-mining; scrape article text from a list of publications to a list of articles
 * For each article, parse for date and headline data
